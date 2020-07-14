@@ -1,0 +1,139 @@
+  body{
+    background: url(../img/Acai\ 2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    /*
+      background-color: black;*/ 
+}
+hr{
+    background-color: white;
+    height: 1px;
+}
+.hr1{
+    background-color: black;
+    height: 1px;
+}
+.borda{
+    border-radius: 15px;
+    border: 10px double rgb(0, 0, 0);
+}
+.back{
+  background: url(../img/Crepe%20Ovomaltine.jpg) no-repeat center center fixed;
+}
+.junta{
+    margin-bottom: -15px;
+    margin-top: 10px;
+}
+.junta2{
+    margin-top: -10px;
+}
+.junta3{
+    margin-top: -15px;
+}
+.scrol{
+    overflow: scroll;
+}
+.auto{
+    margin-left: 60%;
+}
+.cor4{
+    color: black;
+}
+.vermelha{
+  color: red;
+}
+.erro {
+    color: black;
+}
+.zero{
+    opacity: 0;
+}
+.image{
+  width: 250px;
+  height: 250px;
+}
+.descer{
+    position:absolute;
+    bottom:0;
+}
+.lateral{
+    position: absolute;
+    right: 0;
+}
+.volta{
+    margin-top: -5px; 
+}
+.fundo{
+  background-color: #ffffff;
+  opacity: 0.9;
+}
+.cor2{
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
+.cor4{
+  color: white;
+}
+.tamanho{
+  width: 50px;
+  height: 50px;
+}
+.bordadoformulario{
+  border: 10px double rgb(95, 92, 91);
+  border-radius: 15px; 
+  margin-bottom: 50px
+} 
+/*--------------------------page-content-----------------------------*/
+
+.page-wrapper .page-content {
+    display: inline-block;
+    width: 100%;
+    padding-left: 0px;
+    padding-top: 20px;
+  }
+  
+  .page-wrapper .page-content > div {
+    padding: 20px 40px;
+  }
+  
+  .page-wrapper .page-content {
+    overflow-x: hidden;
+  }
+  
+  /*------scroll bar---------------------*/
+  
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 7px;
+  }
+  ::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #0044ff;
+    border: 0px none #ffffff;
+    border-radius: 0px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #525965;
+  }
+  ::-webkit-scrollbar-thumb:active {
+    background: #525965;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+    border: 0px none #ffffff;
+    border-radius: 50px;
+  }
+  ::-webkit-scrollbar-track:hover {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-track:active {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-corner {
+    background: transparent;
+  }
+  
+  
+

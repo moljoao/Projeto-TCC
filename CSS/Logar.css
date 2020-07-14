@@ -1,0 +1,13 @@
+body{
+    background: url(../img/Acai.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.zero{
+    opacity: 0;
+}
+.senha{
+    color: #6610f2;
+}
+.senha:hover{
+    color: #6610f2;
+}
